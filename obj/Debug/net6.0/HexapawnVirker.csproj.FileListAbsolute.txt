@@ -1,0 +1,15 @@
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\bin\Debug\net6.0\HexapawnVirker.exe
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\bin\Debug\net6.0\HexapawnVirker.deps.json
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\bin\Debug\net6.0\HexapawnVirker.runtimeconfig.json
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\bin\Debug\net6.0\HexapawnVirker.dll
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\bin\Debug\net6.0\HexapawnVirker.pdb
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.dll
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\refint\HexapawnVirker.dll
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.pdb
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\HexapawnVirker.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Hexapawn\HexapawnVirker\obj\Debug\net6.0\ref\HexapawnVirker.dll

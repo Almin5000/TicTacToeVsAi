@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2hHGtxms8Myi/Ze2+G+QUaom8XAmYdfDlUVatrhQppzVCPiWceO6XUdu0pkOgsi/ggi5ZqRWwQ3P/QM9tvMpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HFGF\\source\\repos\\Hexapawn\\HexapawnVirker\\TicTacToeVsAi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HFGF\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\HFGF\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\HFGF\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\HFGF\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
